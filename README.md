@@ -42,7 +42,6 @@ pip install -r requirements.txt
 ```
 
 MCP設定のパスは環境に合わせて適宜変更してください。
-```
 
 ### ツール
 
